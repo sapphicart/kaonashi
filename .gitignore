@@ -1,3 +1,5 @@
 venv/
 *.txt
 replace.py
+__pycache__
+server.py
